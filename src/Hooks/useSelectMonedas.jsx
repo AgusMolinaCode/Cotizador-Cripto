@@ -6,7 +6,7 @@ const Label = styled.label`
     display: block;
     font-size: 24px;
     font-weight: 700;
-    margin: 15px 0;
+    margin: 10px 0;
     font-family: 'Gemunu Libre', sans-serif;
     text-align: center;
 `
@@ -14,7 +14,7 @@ const Label = styled.label`
 const Select = styled.select `
     width: 100%;
     font-size: 18px;
-    padding: 16px;
+    padding: 12px;
     border-radius: 12px;
     margin-bottom: 20px;
 `
